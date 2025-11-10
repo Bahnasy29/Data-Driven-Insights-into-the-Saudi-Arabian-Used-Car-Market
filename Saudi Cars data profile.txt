@@ -1,0 +1,31 @@
+Saudi Cars data profile :
+
+shape 8035 rows × 13 columns
+
+that tells us:
+
+top Make is Toyota
+
+top type is Land Cruiser
+
+top options is Full options
+
+top fuel type is Gas
+
+top gear type is Automatic
+
+top region is Riyadh 
+
+Ferrari ,rolls-royce and aston martin is the highest price cars
+
+automatic cars is more expensive
+
+Riyadh and Jeddah is the regions with the highest total value of used cars
+
+notice here that every time the price is 0 Negotiable is True This suggests that these cars are not yet sold or their prices have not been finalized. It's likely that sellers marked the price as 0 and used the Negotiable flag to indicate the price will be set after negotiation.
+
+luxury_brands = [
+    'Mercedes', 'BMW', 'Lexus', 'Cadillac', 'INFINITI', 'Audi', 'Porsche',
+    'Land Rover', 'Jaguar', 'Rolls-Royce', 'Bentley', 'Aston Martin', 'Maserati', 'Ferrari', 'Genesis'
+]
+
